@@ -1,6 +1,6 @@
 ﻿Compiling from source:
 
-When compiling from source you must rename your application to the .scr extension. You also must change the exe to an scr in the config filename.
+When compiling from source you must rename your application to the .scr extension. You also must change the exe to an scr in the config filename. Create a folder called images at the root of the program and drop the logo you want to use in there. If the logo is not called org_logo.png you'll need to edit the Logoff_ScreenSaver.scr.config file to point to the correct file.
 
 Using the release:
 
